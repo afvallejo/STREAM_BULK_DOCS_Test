@@ -6,6 +6,7 @@ This documentation is generated from the repository code. Each behavior claim is
 
 - `README.md`: end-user overview and quickstart.
 - `docs/getting-started.md`: installation and first successful run.
+- `docs/stream-bulk-tutorial.md`: step-by-step tutorial based on the notebook workflow.
 - `docs/user-guide.md`: workflows and examples.
 - `docs/api-reference.md`: public API surface.
 - `docs/cli.md`: CLI usage.
